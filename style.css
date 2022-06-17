@@ -388,7 +388,7 @@ body {
   display: flex;
   justify-content: space-around;
   border-bottom: 1px solid #e1dddd;
-  padding: 60px;
+  padding: 60px 0px;
 }
 .footer-slogan {
   font-size: 40px;
